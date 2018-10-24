@@ -2,10 +2,16 @@
 Reseach Papers and publications on Image Reconstruction through Atmospheric Turbulence
 
 ## Distorted Image
-<img src="https://github.com/ashishT1712/Research-Papers-and-Publications/blob/master/satellite_image2.jpg" width="512" height="512" title="Distorted Image">
+
+<p align="center">
+  <img src="https://github.com/ashishT1712/Research-Papers-and-Publications/blob/master/satellite_image2.jpg" width="512" height="512" title="Distorted Image">
+</p>
 
 ## Reconstructed Image
-![Reconstructed Image](https://github.com/ashishT1712/Research-Papers-and-Publications/blob/master/reconstructed.PNG)
+
+<p align="center">
+  <img src="https://github.com/ashishT1712/Research-Papers-and-Publications/blob/master/reconstructed.PNG" width="512" height="512" title="Reconstructed Image">
+</p>
 
 Paper is published in AMOS 2018 conference.
 ## Link below :
