@@ -13,7 +13,7 @@ Reseach Papers and publications on Image Reconstruction through Atmospheric Turb
   <img src="https://github.com/ashishT1712/Research-Papers-and-Publications/blob/master/reconstructed.PNG" width="256" height="256" title="Reconstructed Image">
 </p>
 
-Paper is published in AMOS 2018 conference.
+Paper is published in __[AMOS 2018]__(https://amostech.com/) conference.
 
 ## Link below :
 
